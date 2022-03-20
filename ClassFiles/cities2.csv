@@ -1,0 +1,166 @@
+ID,Name,CountryCode,District,Population
+1,Kabul,AFG,Kabol,1780000
+2,Qandahar,AFG,Qandahar,237500
+3,Herat,AFG,Herat,186800
+4,Mazar-e-Sharif,AFG,Balkh,127800
+5,Amsterdam,NLD,Noord-Holland,731200
+6,Rotterdam,NLD,Zuid-Holland,593321
+7,Haag,NLD,Zuid-Holland,440900
+8,Utrecht,NLD,Utrecht,234323
+9,Eindhoven,NLD,Noord-Brabant,201843
+10,Tilburg,NLD,Noord-Brabant,193238
+11,Groningen,NLD,Groningen,172701
+12,Breda,NLD,Noord-Brabant,160398
+13,Apeldoorn,NLD,Gelderland,153491
+14,Nijmegen,NLD,Gelderland,152463
+15,Enschede,NLD,Overijssel,149544
+16,Haarlem,NLD,Noord-Holland,148772
+17,Almere,NLD,Flevoland,142465
+18,Arnhem,NLD,Gelderland,138020
+19,Zaanstad,NLD,Noord-Holland,135621
+21,Amersfoort,NLD,Utrecht,126270
+22,Maastricht,NLD,Limburg,122087
+23,Dordrecht,NLD,Zuid-Holland,119811
+24,Leiden,NLD,Zuid-Holland,117196
+25,Haarlemmermeer,NLD,Noord-Holland,110722
+26,Zoetermeer,NLD,Zuid-Holland,110214
+27,Emmen,NLD,Drenthe,105853
+28,Zwolle,NLD,Overijssel,105819
+29,Ede,NLD,Gelderland,101574
+30,Delft,NLD,Zuid-Holland,95268
+31,Heerlen,NLD,Limburg,95052
+32,Alkmaar,NLD,Noord-Holland,92713
+34,Tirana,ALB,Tirana,270000
+35,Alger,DZA,Alger,2168000
+36,Oran,DZA,Oran,609823
+37,Constantine,DZA,Constantine,443727
+38,Annaba,DZA,Annaba,222518
+39,Batna,DZA,Batna,183377
+42,Skikda,DZA,Skikda,128747
+43,Biskra,DZA,Biskra,128281
+44,Blida (el-Boulaida),DZA,Blida,127284
+46,Mostaganem,DZA,Mostaganem,115212
+48,Tlemcen (Tilimsen),DZA,Tlemcen,110242
+50,Tiaret,DZA,Tiaret,100118
+51,Ech-Chleff (el-Asnam),DZA,Chlef,96794
+53,Tafuna,ASM,Tutuila,5200
+54,Fagatogo,ASM,Tutuila,2323
+55,Andorra la Vella,AND,Andorra la Vella,21189
+56,Luanda,AGO,Luanda,2022000
+57,Huambo,AGO,Huambo,163100
+58,Lobito,AGO,Benguela,130000
+59,Benguela,AGO,Benguela,128300
+60,Namibe,AGO,Namibe,118200
+64,Dubai,ARE,Dubai,669181
+65,Abu Dhabi,ARE,Abu Dhabi,398695
+66,Sharja,ARE,Sharja,320095
+67,al-Ayn,ARE,Abu Dhabi,225970
+68,Ajman,ARE,Ajman,114395
+69,Buenos Aires,ARG,Distrito Federal,2982146
+70,La Matanza,ARG,Buenos Aires,1266461
+73,Lomas de Zamora,ARG,Buenos Aires,622013
+74,Quilmes,ARG,Buenos Aires,559249
+75,Almirante Brown,ARG,Buenos Aires,538918
+76,La Plata,ARG,Buenos Aires,521936
+77,Mar del Plata,ARG,Buenos Aires,512880
+80,Merlo,ARG,Buenos Aires,463846
+82,Salta,ARG,Salta,367550
+83,Moreno,ARG,Buenos Aires,356993
+85,Avellaneda,ARG,Buenos Aires,353046
+86,Tres de Febrero,ARG,Buenos Aires,352311
+88,Florencio Varela,ARG,Buenos Aires,315432
+89,San Isidro,ARG,Buenos Aires,306341
+90,Tigre,ARG,Buenos Aires,296226
+91,Malvinas Argentinas,ARG,Buenos Aires,290335
+93,Berazategui,ARG,Buenos Aires,276916
+94,Corrientes,ARG,Corrientes,258103
+95,San Miguel,ARG,Buenos Aires,248700
+98,Resistencia,ARG,Chaco,229212
+101,Godoy Cruz,ARG,Mendoza,206998
+102,Posadas,ARG,Misiones,201273
+104,Santiago del Estero,ARG,Santiago del Estero,189947
+105,San Salvador de Jujuy,ARG,Jujuy,178748
+106,Hurlingham,ARG,Buenos Aires,170028
+109,San Fernando,ARG,Buenos Aires,153036
+110,Formosa,ARG,Formosa,147636
+111,Las Heras,ARG,Mendoza,145823
+112,La Rioja,ARG,La Rioja,138117
+113,San Fernando del Valle de Cata,ARG,Catamarca,134935
+115,Comodoro Rivadavia,ARG,Chubut,124104
+116,Mendoza,ARG,Mendoza,123027
+117,San Nicolás de los Arroyos,ARG,Buenos Aires,119302
+118,San Juan,ARG,San Juan,119152
+119,Escobar,ARG,Buenos Aires,116675
+120,Concordia,ARG,Entre Rios,116485
+121,Pilar,ARG,Buenos Aires,113428
+122,San Luis,ARG,San Luis,110136
+123,Ezeiza,ARG,Buenos Aires,99578
+124,San Rafael,ARG,Mendoza,94651
+125,Tandil,ARG,Buenos Aires,91101
+126,Yerevan,ARM,Yerevan,1248700
+127,Gjumri,ARM,Širak,211700
+128,Vanadzor,ARM,Lori,172700
+130,Sydney,AUS,New South Wales,3276207
+131,Melbourne,AUS,Victoria,2865329
+132,Brisbane,AUS,Queensland,1291117
+133,Perth,AUS,West Australia,1096829
+134,Adelaide,AUS,South Australia,978100
+135,Canberra,AUS,Capital Region,322723
+136,Gold Coast,AUS,Queensland,311932
+137,Newcastle,AUS,New South Wales,270324
+138,Central Coast,AUS,New South Wales,227657
+139,Wollongong,AUS,New South Wales,219761
+140,Hobart,AUS,Tasmania,126118
+141,Geelong,AUS,Victoria,125382
+142,Townsville,AUS,Queensland,109914
+143,Cairns,AUS,Queensland,92273
+144,Baku,AZE,Baki,1787800
+146,Sumqayit,AZE,Sumqayit,283000
+148,Nassau,BHS,New Providence,172000
+149,al-Manama,BHR,al-Manama,148000
+150,Dhaka,BGD,Dhaka,3612850
+151,Chittagong,BGD,Chittagong,1392860
+152,Khulna,BGD,Khulna,663340
+153,Rajshahi,BGD,Rajshahi,294056
+154,Narayanganj,BGD,Dhaka,202134
+155,Rangpur,BGD,Rajshahi,191398
+156,Mymensingh,BGD,Dhaka,188713
+157,Barisal,BGD,Barisal,170232
+158,Tungi,BGD,Dhaka,168702
+159,Jessore,BGD,Khulna,139710
+160,Comilla,BGD,Chittagong,135313
+161,Nawabganj,BGD,Rajshahi,130577
+162,Dinajpur,BGD,Rajshahi,127815
+163,Bogra,BGD,Rajshahi,120170
+164,Sylhet,BGD,Sylhet,117396
+165,Brahmanbaria,BGD,Chittagong,109032
+166,Tangail,BGD,Dhaka,106004
+167,Jamalpur,BGD,Dhaka,103556
+168,Pabna,BGD,Rajshahi,103277
+169,Naogaon,BGD,Rajshahi,101266
+170,Sirajganj,BGD,Rajshahi,99669
+171,Narsinghdi,BGD,Dhaka,98342
+172,Saidpur,BGD,Rajshahi,96777
+173,Gazipur,BGD,Dhaka,96717
+174,Bridgetown,BRB,St Michael,6070
+175,Antwerpen,BEL,Antwerpen,446525
+176,Gent,BEL,East Flanderi,224180
+177,Charleroi,BEL,Hainaut,200827
+179,Bruxelles [Brussel],BEL,Bryssel,133859
+180,Brugge,BEL,West Flanderi,116246
+181,Schaerbeek,BEL,Bryssel,105692
+182,Namur,BEL,Namur,105419
+183,Mons,BEL,Hainaut,90935
+184,Belize City,BLZ,Belize City,55810
+185,Belmopan,BLZ,Cayo,7105
+186,Cotonou,BEN,Atlantique,536827
+188,Djougou,BEN,Atacora,134099
+189,Parakou,BEN,Borgou,103577
+191,Hamilton,BMU,Hamilton,1200
+192,Thimphu,BTN,Thimphu,22000
+193,Santa Cruz de la Sierra,BOL,Santa Cruz,935361
+194,La Paz,BOL,La Paz,758141
+195,El Alto,BOL,La Paz,534466
+196,Cochabamba,BOL,Cochabamba,482800
+197,Oruro,BOL,Oruro,223553
+198,Sucre,BOL,Chuquisaca,178426

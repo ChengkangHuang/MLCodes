@@ -1,0 +1,6 @@
+rev_corpus =["I loved the “Squid Game” good series.",
+             "good show, loved it!",
+             "worst series ever! Pathetic!",
+             "don't waste your time, worst storyline, and direction.",
+             "love it! love it! good direction", 
+             "waste and pathetic"]
